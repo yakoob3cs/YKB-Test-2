@@ -18,6 +18,7 @@ export default function Home() {
             Get started by editing <code>src/app/page.js</code>.
           </li>
           <li>Save and see your changes instantly.</li>
+          <li>I have successfully pushed it to github with the repo name (YKB-Test-2)</li>
         </ol>
 
         <div className={styles.ctas}>
